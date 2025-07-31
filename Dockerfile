@@ -13,7 +13,7 @@ EXPOSE 6379
 
 # 设置 Redis 密码（可选）
 # 如果你需要设置密码，取消注释以下行并替换为你自己的密码
-ENV REDIS_PASSWORD 321wsx
+ENV REDIS_PASSWORD a6537089
 
 # 启动 Redis 服务
 # 使用 sh -c 动态传递环境变量
